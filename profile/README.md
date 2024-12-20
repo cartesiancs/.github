@@ -1,10 +1,12 @@
-## 반가워요 👋
+## Welcome 👋
 
-#### 🙋‍♀️ 간략한 소개
+#### 🙋‍♀️ Introduction
 
-이 테스트베드 스타트업의 정체가 궁금하다면, [허형준 포트폴리오](https://hhj.devent.kr/)를 방문해주세요.
+A one-person testbed startup located in Sejong City, South Korea.
 
-[🌎 홈페이지 >](https://devent.kr/)       
+[Who Created This?](https://hhj.devent.kr/)
+
+  
 
 <!--
 
