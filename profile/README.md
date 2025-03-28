@@ -1,10 +1,10 @@
-## Welcome 👋
+## Hello 👋
 
-#### 🙋‍♀️ Introduction
+We respect the open-source culture.
 
-A one-person testbed startup located in Sejong City, South Korea.
+[Website >](https://cartesiancs.com/)
 
-[Who Created This?](https://hhj.devent.kr/)
+[LinkedIn >](https://www.linkedin.com/company/cartesiancs/)
 
   
 
