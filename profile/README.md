@@ -1,9 +1,8 @@
-## Hello 👋
+![back](https://github.com/user-attachments/assets/9ff0756c-d000-40c7-9b25-c97dfad3ac09)
 
 We respect the open-source culture.
 
 [Website >](https://cartesiancs.com/)
-
 [LinkedIn >](https://www.linkedin.com/company/cartesiancs/)
 
   
