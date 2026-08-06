@@ -1,4 +1,4 @@
-<img width="2570" height="917" alt="Frame 48" src="https://github.com/user-attachments/assets/3b053c52-2894-470a-b496-6a71b79a601b" />
+<img width="2570" height="917" alt="Frame 48" src="https://github.com/user-attachments/assets/f6697682-c7d1-4a82-9ecb-02a64f03b53e" />
 
 [Website >](https://cartesiancs.com/)
 [LinkedIn >](https://www.linkedin.com/company/cartesiancs/)
