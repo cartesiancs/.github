@@ -1,6 +1,4 @@
-![back](https://github.com/user-attachments/assets/9ff0756c-d000-40c7-9b25-c97dfad3ac09)
-
-We respect the open-source culture.
+<img width="2570" height="917" alt="Frame 48" src="https://github.com/user-attachments/assets/3b053c52-2894-470a-b496-6a71b79a601b" />
 
 [Website >](https://cartesiancs.com/)
 [LinkedIn >](https://www.linkedin.com/company/cartesiancs/)
